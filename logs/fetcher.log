@@ -25,3 +25,68 @@
 2025-06-03 08:33:42,094 - INFO - • Nenhuma linha nova para adicionar (já processado).
 2025-06-03 08:36:12,263 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
 2025-06-03 08:36:15,685 - INFO - • Nenhuma linha nova para adicionar (já processado).
+2025-06-05 18:10:37,945 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:10:40,374 - WARNING - Checkpoint ausente/inválido. Usando CSV existente: first=2025-05-30 13:30:00, last=347.7900085449219
+2025-06-05 18:10:40,375 - INFO - • Nenhuma linha nova para adicionar (já processado).
+2025-06-05 18:11:29,178 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:11:31,274 - WARNING - Checkpoint ausente/inválido. Usando CSV existente: first=2025-05-30 13:30:00, last=347.7900085449219
+2025-06-05 18:11:31,275 - INFO - • Nenhuma linha nova para adicionar (já processado).
+2025-06-05 18:16:28,819 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:16:30,903 - WARNING - Checkpoint ausente/inválido. Usando CSV existente: first=2025-05-30 13:30:00, last=347.7900085449219
+2025-06-05 18:16:30,904 - INFO - • Nenhuma linha nova para adicionar (já processado).
+2025-06-05 18:16:58,499 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:18:27,361 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:18:29,556 - WARNING - Checkpoint ausente/inválido. Usando CSV existente: first=2025-05-30 13:30:00, last=347.7900085449219
+2025-06-05 18:18:29,557 - INFO - • Nenhuma linha nova para adicionar (já processado).
+2025-06-05 18:19:58,311 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:20:00,412 - WARNING - Checkpoint ausente/inválido. Usando CSV existente: first=2025-05-30 13:30:00, last=347.7900085449219
+2025-06-05 18:20:00,413 - INFO - • Nenhuma linha nova para adicionar (já processado).
+2025-06-05 18:20:41,743 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:24:11,583 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:24:13,757 - WARNING - Checkpoint ausente/inválido. Usando CSV existente: first=2025-05-30 13:30:00, last=347.7900085449219
+2025-06-05 18:24:13,757 - INFO - • Nenhuma linha nova para adicionar (já processado).
+2025-06-05 18:31:10,568 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:29:09,959 - WARNING - Checkpoint ausente/inválido. Usando CSV existente: first=2025-05-30 13:30:00, last=347.7900085449219
+2025-06-05 18:29:09,960 - INFO - • Nenhuma linha nova para adicionar (já processado).
+2025-06-05 18:29:26,917 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:30:07,121 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:30:09,207 - WARNING - Checkpoint ausente/inválido. Usando CSV existente: first=2025-06-05 13:30:00, last=2025-06-05 19:59:00
+2025-06-05 18:31:55,632 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:34:00,700 - WARNING - Checkpoint ausente/inválido. Usando CSV existente: first=2025-06-05 13:30:00, last=2025-06-05 19:59:00
+2025-06-05 18:34:00,701 - INFO - • Nenhuma linha nova para adicionar (já processado).
+2025-06-05 18:32:18,581 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:32:20,001 - INFO - Gravando checkpoint com last_timestamp = 2025-06-05 19:59:00 e start_timestamp = 2025-06-05 13:30:00
+2025-06-05 18:32:20,001 - INFO - • Criando TSLA_evolution.csv com 388 linhas.
+2025-06-05 18:32:20,001 - INFO -   -> Checkpoint inicial: first=2025-06-05 13:30:00, last=2025-06-05 19:59:00
+2025-06-05 18:35:06,415 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:35:08,785 - INFO - • Nenhuma linha nova para adicionar (já processado).
+2025-06-05 18:35:28,742 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:35:30,179 - INFO - Gravando checkpoint com last_timestamp = 2025-06-05 19:59:00 e start_timestamp = 2025-06-05 13:30:00
+2025-06-05 18:35:30,179 - INFO - • Criando TSLA_evolution.csv com 385 linhas.
+2025-06-05 18:35:30,179 - INFO -   -> Checkpoint inicial: first=2025-06-05 13:30:00, last=2025-06-05 19:59:00
+2025-06-05 18:36:59,159 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:37:00,595 - INFO - • Nenhuma linha nova para adicionar (já processado).
+2025-06-05 18:37:20,429 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:37:22,498 - INFO - Gravando checkpoint com last_timestamp = 2025-06-05 19:59:00 e start_timestamp = 2025-06-05 13:30:00
+2025-06-05 18:37:22,498 - INFO - • Criando TSLA_evolution.csv com 385 linhas.
+2025-06-05 18:37:22,498 - INFO -   -> Checkpoint inicial: first=2025-06-05 13:30:00, last=2025-06-05 19:59:00
+2025-06-05 18:40:27,583 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:40:29,640 - INFO - • Nenhuma linha nova para adicionar (já processado).
+2025-06-05 18:40:43,026 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:40:44,487 - INFO - Gravando checkpoint com last_timestamp = 2025-06-05 19:59:00 e start_timestamp = 2025-06-05 13:30:00
+2025-06-05 18:40:44,487 - INFO - • Criando TSLA_evolution.csv com 385 linhas.
+2025-06-05 18:40:44,488 - INFO -   -> Checkpoint inicial: first=2025-06-05 13:30:00, last=2025-06-05 19:59:00
+2025-06-05 18:40:55,800 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:40:57,234 - INFO - • Nenhuma linha nova para adicionar (já processado).
+2025-06-05 18:51:19,382 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:51:21,537 - INFO - Gravando checkpoint com last_timestamp = 2025-06-05 19:59:00 e start_timestamp = 2025-06-05 13:30:00
+2025-06-05 18:51:21,538 - INFO - • Criando TSLA_evolution com 385 linhas.
+2025-06-05 18:51:21,538 - INFO -   -> Checkpoint inicial: first=2025-06-05 13:30:00, last=2025-06-05 19:59:00
+2025-06-05 18:51:21,538 - INFO - • Criando TSLA_metadata com metadados iniciais.
+2025-06-05 18:51:31,272 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 18:51:32,745 - INFO - • Nenhuma linha nova para adicionar (já processado).
+2025-06-05 19:18:00,280 - INFO - [fetch_and_save] Símbolo=TSLA, de None até None, intervalo:(1m), período:(1d), auto_adjust:(True)
+2025-06-05 19:20:05,138 - INFO - Gravando checkpoint com last_timestamp = 2025-06-05 19:59:00 e start_timestamp = 2025-06-05 13:30:00
+2025-06-05 19:20:05,138 - INFO - • Criando TSLA_evolution com 385 linhas.
+2025-06-05 19:20:05,138 - INFO -   -> Checkpoint inicial: first=2025-06-05 13:30:00, last=2025-06-05 19:59:00
+2025-06-05 19:20:05,138 - INFO - • Criando TSLA_metadata com metadados iniciais.
